@@ -1,0 +1,11 @@
+Package: libcudnn6-doc
+Source: cudnn
+Version: 6.0.21-1+cuda8.0
+Architecture: amd64
+Maintainer: cudatools <cudatools@nvidia.com>
+Installed-Size: 9284
+Depends: libcudnn6-dev
+Section: multiverse/doc
+Priority: optional
+Description: cuDNN documents and samples
+ cuDNN provides primitives for deep neural networks.
